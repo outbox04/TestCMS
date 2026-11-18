@@ -1,0 +1,88 @@
+{
+  "_notice": "DỮ LIỆU GIẢ CHO DEMO — Thương hiệu và sản phẩm dưới đây hoàn toàn hư cấu, chỉ phục vụ kiểm thử module Content Agent. CỐ Ý không có thông tin bảo hành/đổi trả để kiểm thử bẫy chống bịa (Kịch bản C).",
+  "brand_name": "LumiBrew Việt Nam",
+  "description": "Thương hiệu thiết bị pha chế cà phê thông minh dành cho gia đình và văn phòng nhỏ tại Việt Nam.",
+  "products": [
+    {
+      "id": "prod-lumibrew-mini-x1",
+      "name": "LumiBrew Mini X1",
+      "description": "Máy pha cà phê espresso nhỏ gọn tích hợp kiểm soát nhiệt độ PID chuẩn xác cho căn hộ hiện đại.",
+      "price": 4890000,
+      "price_formatted": "4.890.000 VNĐ",
+      "specs": {
+        "cong_suat": "1350W",
+        "ap_suat_bom": "15 bar",
+        "dung_tich_binh_nuoc": "1.2 lít",
+        "trong_luong": "4.2 kg",
+        "chat_lieu_vo": "Thép không gỉ 304 và nhựa ABS chịu nhiệt",
+        "thoi_gian_lam_nong": "35 giây"
+      }
+    },
+    {
+      "id": "prod-lumigrind-pro-g2",
+      "name": "LumiGrind Pro G2",
+      "description": "Máy xay cà phê hạt lưỡi phẳng (flat burr) 38 cấp độ mịn từ espresso đến pour-over.",
+      "price": 2490000,
+      "price_formatted": "2.490.000 VNĐ",
+      "specs": {
+        "cong_suat": "180W",
+        "duong_kinh_luoi_xay": "48 mm",
+        "cap_do_xay": "38 cấp độ",
+        "dung_tich_pheu_hat": "250 g",
+        "toc_do_vong_quay": "450 vòng/phút",
+        "trong_luong": "2.6 kg"
+      }
+    }
+  ],
+  "voice": "Chuyên nghiệp, rõ ràng, trung thực dựa trên thông số kỹ thuật thực tế; dùng câu chủ động, giải thích dễ hiểu cho người mới bắt đầu pha cà phê tại nhà; không cường điệu hay dùng mỹ từ sáo rỗng.",
+  "facts": [
+    {
+      "id": "fact-01",
+      "category": "product",
+      "statement": "Máy pha cà phê LumiBrew Mini X1 có giá niêm yết 4.890.000 VNĐ, công suất 1350W và áp suất bơm 15 bar."
+    },
+    {
+      "id": "fact-02",
+      "category": "product",
+      "statement": "LumiBrew Mini X1 trang bị bình nước tháo rời dung tích 1.2 lít, trọng lượng máy 4.2 kg và làm nóng trong 35 giây."
+    },
+    {
+      "id": "fact-03",
+      "category": "technology",
+      "statement": "Bộ điều khiển nhiệt độ PID trên LumiBrew Mini X1 giữ nhiệt độ nước chiết xuất ổn định ở mức 92 độ C."
+    },
+    {
+      "id": "fact-04",
+      "category": "product",
+      "statement": "Máy xay cà phê LumiGrind Pro G2 có giá niêm yết 2.490.000 VNĐ, công suất 180W, sử dụng lưỡi xay phẳng đường kính 48 mm."
+    },
+    {
+      "id": "fact-05",
+      "category": "product",
+      "statement": "LumiGrind Pro G2 hỗ trợ 38 cấp độ chỉnh độ mịn, phễu chứa hạt 250 g, tốc độ quay 450 vòng/phút và nặng 2.6 kg."
+    },
+    {
+      "id": "fact-06",
+      "category": "usage",
+      "statement": "Với pha espresso trên LumiBrew Mini X1, mức độ mịn khuyến nghị trên máy xay LumiGrind Pro G2 là từ cấp 5 đến cấp 10."
+    },
+    {
+      "id": "fact-07",
+      "category": "usage",
+      "statement": "Với pha pour-over (V60), mức độ mịn khuyến nghị trên LumiGrind Pro G2 là từ cấp 22 đến cấp 28."
+    },
+    {
+      "id": "fact-08",
+      "category": "origin",
+      "statement": "LumiBrew Việt Nam thành lập năm 2024 tại TP. Hồ Chí Minh, chuyên thiết bị pha cà phê tại nhà."
+    }
+  ],
+  "forbidden_claims": [
+    "rẻ nhất thị trường",
+    "chữa bệnh",
+    "tốt nhất thế giới",
+    "cam kết hoàn tiền 100% trọn đời",
+    "số 1 Việt Nam"
+  ]
+}
+
